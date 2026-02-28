@@ -7,6 +7,7 @@ import './Counter.css';
 function App(){
  return(
   <div>
+    Changes to test github
     <Counter2/>
     <Dynamic/>
 
